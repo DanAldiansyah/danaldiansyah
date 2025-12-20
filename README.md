@@ -17,5 +17,5 @@ Learning React, Laravel & JavaScript
 ### Contact Me
 - Email: your@email.com
 - LinkedIn: linkedin.com/in/username
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danaldiansyah&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaldiansyah&layout=compact)
