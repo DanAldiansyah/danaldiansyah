@@ -15,7 +15,13 @@ Learning React, Laravel & JavaScript
 - Start freelancing as web developer
 
 ### Contact Me
-- Email: your@email.com
-- LinkedIn: linkedin.com/in/username
+- Email: aldanaldiansyah1604@gmail.com
+- LinkedIn: linkedin.com/in/muhammad-aldan-aldiansyah
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danaldiansyah&show_icons=true)
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaldiansyah&layout=compact)
