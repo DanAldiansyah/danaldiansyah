@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Aldan 👋
 
-<!--
-**DanAldiansyah/danaldiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Student  
+Aspiring Web Developer  
+Learning React, Laravel & JavaScript  
 
-Here are some ideas to get you started:
+### Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Laravel, Node.js
+- Tools: Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Goals
+- Build real-world web projects
+- Learn backend deeply (API & Auth)
+- Start freelancing as web developer
+
+### Contact Me
+- Email: your@email.com
+- LinkedIn: linkedin.com/in/username
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
