@@ -1,5 +1,3 @@
 ## Hi, I'm Aldan 👋
 
-![Aldiansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaldiansyah&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaldiansyah&layout=compact&theme=radical)
+[![Aldiansyah's GitHub stats](https://github-stats-extended.vercel.app/api?username=danaldiansyah)](https://github.com/stats-organization/github-stats-extended)
